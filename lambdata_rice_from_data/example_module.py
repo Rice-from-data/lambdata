@@ -1,6 +1,8 @@
 #!/usr/bin/env python
 """
 lambdata - a collection of Data Science helper functions
+-----
+
 """
 
 import pandas as pd
@@ -8,7 +10,9 @@ import numpy as np
 
 
 class DataCleaner:
-    """A class for holding data cleaning tools"""
+    """
+    A class for holding data cleaning tools
+    """
 
     def __init__(self, df):
         self.df = df
