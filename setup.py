@@ -13,7 +13,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name='lambdata_rice_from_data',
-    version='0.0.6',
+    version='0.0.7',
     author='rice_from_data',
     author_email='rice@data.com',
     description="A collection of Data Science Helper functions",
